@@ -1,0 +1,20 @@
+{
+    "name": "koshkil/dbal",
+    "description": "The Koshkil PHP Framework - Database Abstraction Layer",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Koshkil\\DBAL\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Marjos",
+            "email": "dmarjos@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+    }
+}
