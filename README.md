@@ -12,5 +12,5 @@ recommend using the app skeleton as a starting point.
 For existing applications you can run the following:
 
 ``` bash
-$ composer require koshkil/network
+$ composer require koshkil/dbal
 ```
